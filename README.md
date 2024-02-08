@@ -1,4 +1,5 @@
 **PASSWORD STRENGTH CHECKER**
+
 This Python script allows users to check the strength of a password based on various 
 criteria such as the presence of lowercase and uppercase letters, digits, whitespaces, 
 and special characters.
